@@ -1,4 +1,4 @@
-Follow the Documentation to Install Django in Your Compueter.
+Follow the Documentation to Install Django in Your Computer.
 
 https://www.djangoproject.com/download/
 
